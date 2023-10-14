@@ -15,3 +15,7 @@ npm install
 ```sh
 npm run dev
 ```
+
+## API Documentation
+
+[https://sy0-401-braindump.gitbook.io/domain-resolver/reference/api-reference](https://sy0-401-braindump.gitbook.io/domain-resolver/reference/api-reference)
